@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(107, 66, 13);
+    background-size: cover;
+    color: #fdfdfd;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #543be0;
+}
+
+a {
+    color: #2d00f8;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #09ff00
+}
+
+.container {
+    position: relative;
+    top: 100px;
+}
